@@ -1,0 +1,5 @@
+hello,0
+world,0
+name,0
+type,0
+thing,0
